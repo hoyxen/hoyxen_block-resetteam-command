@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"You are not allowed to use this command"
+	{
+		"en"			"Aqui isso não funciona, ahahah!"
+	}
+}
