@@ -1,5 +1,3 @@
-#[CS:GO] Block resetteam command!
-
 [CS:GO] Block resetteam command!
 This plugin block resetteam command.
 
