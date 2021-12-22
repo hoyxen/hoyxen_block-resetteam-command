@@ -1,8 +1,8 @@
-[CS:GO] Block resetteam command!
-This plugin block resetteam command.
+<b>[CS:GO] Block resetteam command!</b>
+<b>This plugin block resetteam command.</b>
 
-Small Video:
+<b>Small Video:</b>
 https://www.youtube.com/watch?v=VyRr4RQKHt4
 
-See more in AlliedModders:
+<b>See more in AlliedModders:</b>
 https://forums.alliedmods.net/showthread.php?t=330983
